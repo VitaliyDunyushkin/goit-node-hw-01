@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "my homework #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliyDunyushkin/goit-node-hw-01.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Vitaliy Dunyushkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliyDunyushkin/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/VitaliyDunyushkin/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
