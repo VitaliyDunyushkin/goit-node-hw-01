@@ -23,5 +23,9 @@
   "homepage": "https://github.com/VitaliyDunyushkin/goit-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.4",
+    "yargs": "^17.7.2"
   }
 }
